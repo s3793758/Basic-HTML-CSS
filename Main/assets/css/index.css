@@ -60,6 +60,8 @@ figure {
 
 img {
   display: block;
+  width: 1200px;
+  height: 600px;
   margin: 20px auto;
 }
 
